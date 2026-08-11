@@ -1,29 +1,19 @@
-# Simple Calculator
+# To-Do List
 
-A GUI-based calculator built using Python and Tkinter for the CodSoft Python Internship.
+## Description
+A simple command-line To-Do List application developed in Python for the CodSoft Python Internship.
 
 ## Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Input validation
-- Division by zero handling
-- Clear button
-- Exit button
+- View tasks
+- Add tasks
+- Update tasks
+- Delete tasks
 
 ## Technologies Used
-
-- Python 3
-- Tkinter
+- Python
 
 ## How to Run
 
 ```bash
-python calculator.py
+python todo.py
 ```
-
-## Author
-
-Your Name
